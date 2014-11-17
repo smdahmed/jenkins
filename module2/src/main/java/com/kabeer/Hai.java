@@ -2,6 +2,7 @@ package com.kabeer;
 
 /*
  * Add a comment
+ * Delete a comment
  */
 
 public class Hai {
