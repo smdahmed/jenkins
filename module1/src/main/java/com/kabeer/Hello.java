@@ -3,7 +3,6 @@ package com.kabeer;
 /*
  * Add comment
  * Delete comment
- *
  */
 
 public class Hello {
