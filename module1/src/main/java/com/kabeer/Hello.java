@@ -4,14 +4,14 @@ package com.kabeer;
  * Add comment
  * Delete comment
  *
- * 5:26
+ * Put into master
  *
  */
 
 public class Hello {
 
 	public static void main(String[] args) {
-		System.out.println("Hello Module 1")
+		System.out.println("Hello Module 1");
 
 	}
 
